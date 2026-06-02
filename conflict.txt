@@ -1,1 +1,1 @@
-Базовый текст
+Email: qa@test.com
