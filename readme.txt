@@ -1,3 +1,4 @@
 Это главная ветка. Тут живет стабильный код.
 Ето строка написана в GitHub
 nova strocka
+kolega Vasa dobavil pravku
